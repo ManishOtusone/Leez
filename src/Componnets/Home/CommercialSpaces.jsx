@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import Commercial from "../../assets/Images/commercial.png";
+import Commercial from "../../assets/Images/Commercial.png";
 import Residencial from "../../assets/Images/Residence.png";
 import { FaArrowRight } from "react-icons/fa";
 

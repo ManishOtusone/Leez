@@ -3,7 +3,7 @@ import BuyingHome from "../../assets/Images/Coliving.png";
 import RentingHome from "../../assets/Images/Rent.png";
 import SellRent from "../../assets/Images/Sale.png";
 import Explore from "../../assets/Explore Insights.png";
-import commercial from "../../assets/Images/commercial.png";
+import commercial from "../../assets/Images/Commercial.png";
 
 import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 

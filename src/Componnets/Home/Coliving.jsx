@@ -4,7 +4,7 @@ import Nostamp from "../../assets/Nostamp.png";
 import Up from "../../assets/Up.png";
 import Demolition from "../../assets/Demolition.png";
 import Oberoi from "../../assets/Oberoi.png";
-import PgColiving from '../../assets/Images/coliving.png'
+import PgColiving from '../../assets/Images/Coliving.png'
 import { useNavigate } from "react-router-dom";
 
 const Coliving = () => {
