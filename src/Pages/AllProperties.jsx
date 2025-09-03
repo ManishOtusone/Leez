@@ -94,7 +94,7 @@ const AllProperties = () => {
                         <div
                             key={property.id}
                             className="border rounded-lg shadow hover:shadow-lg transition overflow-hidden cursor-pointer"
-                            onClick={() => navigate("/view")} // ✅ navigate on click
+                            onClick={() => navigate("/view")}
                         >
                             <img
                                 src={property.image}
