@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
-import BuyingHome from "../../assets/Images/coliving.png";
+import BuyingHome from "../../assets/Images/Coliving.png";
 import RentingHome from "../../assets/Images/Rent.png";
 import SellRent from "../../assets/Images/Sale.png";
 import Explore from "../../assets/Explore Insights.png";
